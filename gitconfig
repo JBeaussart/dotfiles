@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = jeremy.beaussart@gmail.com
+	email = jeremy.beaussart@gmail.Com
 	name = jeremy beaussart
